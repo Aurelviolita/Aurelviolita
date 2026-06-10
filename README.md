@@ -28,7 +28,7 @@
 
 ## Connect With Me
 
-- LinkedIn: linkedin.com/in/aurel-elviolita-putri
+- LinkedIn: https://www.linkedin.com/in/aurel-elviolita-putri
 - Email: aurelviolita00@gmail.com
 - Scholar:https://scholar.google.com/citations?user=qRu7ucUAAAAJ&hl=id&authuser=2
 - Portfolio: https://bit.ly/AurelviolitaPortfolio
